@@ -1,6 +1,8 @@
-import { createGlobalStyle } from 'styled-components';
+// import { createGlobalStyle} from '@emotion/styled';
+import styled from '@emotion/styled'
 
-export const GlobalStyle = createGlobalStyle`
+
+ export const GlobalStyle = styled.createGlobalStyle`
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -30,3 +32,4 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
   }
 `;
+

@@ -1,4 +1,4 @@
-import styled from '@emotion/styled'
+import styled from 'styled-components';
 
 export const Text = styled.p`
   margin-top: ${p => p.theme.space[4]}px;

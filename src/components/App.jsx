@@ -2,7 +2,7 @@ import { ContactForm } from './ContactForm/ContactForm';
 import { ContactList } from './ContactList/ContactList';
 import { Filter } from './Filter/Filter';
 import { Wrapper } from './App.styled';
-import { GlobalStyle } from './GlobalStyle';
+// import { GlobalStyle } from './GlobalStyle';
 
 export const App = () => {
   return (
@@ -13,7 +13,7 @@ export const App = () => {
         <h1> Contacts</h1>
         <Filter />
         <ContactList />
-        <GlobalStyle />
+        {/* <GlobalStyle /> */}
       </Wrapper>{' '}
     </>
   );

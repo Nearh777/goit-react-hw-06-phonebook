@@ -1,35 +1,35 @@
 // import { createGlobalStyle} from '@emotion/styled';
-import styled from '@emotion/styled'
+// import styled from '@emotion/styled'
 
 
- export const GlobalStyle = styled.createGlobalStyle`
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-      sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+//  export const GlobalStyle = styled.createGlobalStyle`
+//   body {
+//     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+//       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+//       sans-serif;
+//     -webkit-font-smoothing: antialiased;
+//     -moz-osx-font-smoothing: grayscale;
+//   }
 
-  code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-      monospace;
-  }
+//   code {
+//     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+//       monospace;
+//   }
 
-  ul {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-  }
+//   ul {
+//     padding: 0;
+//     margin: 0;
+//     list-style: none;
+//   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p {
-    margin: 0;
-  }
-`;
+//   h1,
+//   h2,
+//   h3,
+//   h4,
+//   h5,
+//   h6,
+//   p {
+//     margin: 0;
+//   }
+// `;
 
